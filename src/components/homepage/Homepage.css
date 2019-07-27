@@ -1,0 +1,10 @@
+.image-css {
+    border-radius: '50%';
+    width: '50%';
+    height: '50%';
+}
+
+.root {
+    align-content: 'center';
+    padding-top: '10vh';
+}
